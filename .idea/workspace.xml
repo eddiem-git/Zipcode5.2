@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cd76a06-876e-4380-8204-4935fe9232fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/services/ScandalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Lambdas2-ZCW/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Lambdas2-ZCW/.idea/Lambdas2-ZCW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Lambdas2-ZCW/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Lambdas2-ZCW/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Lambdas2-ZCW/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Lambdas2-ZCW/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Lambdas2-ZCW/src/main/java/Lambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/Maven.ProjectTemplate/src/main/java/com/github/eddiem-git/template/HelloWorld.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/maventemplate/src/main/java/com/github/eddiem_git/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/maventemplate/src/main/java/com/github/eddiem_git/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/maventemplate/src/main/java/com/github/eddiem_git/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maven/maventemplate/src/main/java/com/github/eddiem_git/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bard/Bard/src/main/java/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bard/Bard/src/main/java/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.AliceAndBob/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.AliceAndBob/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.FirstSaturday/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.FirstSaturday/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.NumbersTrianglesTables/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.NumbersTrianglesTables/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.Quiz1/LoopFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.Quiz1/LoopFun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.Quiz1/StringUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.Quiz1/StringUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.Quiz1/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.Quiz1/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.SumOfInput/SumOfInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.SumOfInput/SumOfInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.SumOfInput/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.SumOfInput/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.TooLargeTooSmall/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/BlueJ/BlueJ.TooLargeTooSmall/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-01.md" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-02.md" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-02.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-03.md" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-04.md" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-04.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-05.md" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/instructions/section-05.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/Sandals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/Model/Sandals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/Sneaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/Model/Sneaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/SneakerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/java/services/SneakerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/main/resources/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/test/java/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/test/java/SneakerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/test/java/SneakerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/test/java/testSandals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/test/java/testSandals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/test/java/testSneaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Product-Inventory-Lab/src/test/java/testSneaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/CR-MacroLabs-OOP-ATM/src/main/java/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/CR-MacroLabs-OOP-ATM/src/main/java/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/CR-MacroLabs-OOP-ATM/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/CR-MacroLabs-OOP-ATM/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/HammingItUpJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/HammingItUpJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Lambdas2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Lambdas2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Lambdas2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Lambdas2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Lambdas2/src/test/java/testSearches.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Lambdas2/src/test/java/testSearches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Lambdas2/src/test/java/testSocialNetworking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Lambdas2/src/test/java/testSocialNetworking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part1/BasicArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part1/BasicArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part1/RockPaperSissorsEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part1/RockPaperSissorsEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part2/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part2/ArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part2/MultiplesDeleter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part2/MultiplesDeleter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part3/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part5/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/main/java/com/zipcodewilmington/assessment1/part5/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/test/java/com/zipcodewilmington/assessment1/part2/ArrayUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment1/src/test/java/com/zipcodewilmington/assessment1/part2/ArrayUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/collections/MonthConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/collections/MonthConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/fundamentals/BasicStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/fundamentals/BasicStringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/fundamentals/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/fundamentals/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/generics/Shelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/generics/Shelter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/animals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/animals/Woofer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/main/java/rocks/zipcode/assessment2/objectorientation/animals/Woofer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/animals/animal/AnimalConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/animals/animal/AnimalConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/PersonConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/PersonConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/SetAddressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/SetAddressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/SetIdTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/SetIdTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/SetNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Assessment2a-5.2/src/test/java/rocks/zipcode/assessment2/objectorientation/person/SetNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.CurrencyConverter/src/main/java/io/zipcoder/currencyconverterapplication/ConvertableCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.CurrencyConverter/src/main/java/io/zipcoder/currencyconverterapplication/ConvertableCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.DiceyLab/src/test/java/com/github/zipcodewilmington/dietest/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.DiceyLab/src/test/java/com/github/zipcodewilmington/dietest/ConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.DiceyLab/src/test/java/com/github/zipcodewilmington/dietest/NullaryConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.DiceyLab/src/test/java/com/github/zipcodewilmington/dietest/NullaryConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.GenericArrayUtility/src/test/java/com/zipcodewilmington/arrayutility/GetNumberOfOccurrencesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.GenericArrayUtility/src/test/java/com/zipcodewilmington/arrayutility/GetNumberOfOccurrencesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.MonkeysTypewritersOhMy/src/main/java/io/zipcoder/Copier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.MonkeysTypewritersOhMy/src/main/java/io/zipcoder/Copier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.MonkeysTypewritersOhMy/src/main/java/io/zipcoder/MonkeyTypewriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.MonkeysTypewritersOhMy/src/main/java/io/zipcoder/MonkeyTypewriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.PersonDetails/src/main/java/com/zipcodewilmington/PersonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.PersonDetails/src/main/java/com/zipcodewilmington/PersonHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.ProjectTemplate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.ProjectTemplate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.ProjectTemplate/src/main/java/hbcu/stay/ready/com/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.ProjectTemplate/src/main/java/com/github/eddiem-git/template/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.ProjectTemplate/src/test/java/hbcu/stay/ready/com/MainApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.ProjectTemplate/src/test/java/com/github/eddiem-git/template/MainApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part1/BasicUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part1/BasicUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part1/IntegerArrayUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part1/IntegerArrayUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part1/WuTangConcatenator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part1/WuTangConcatenator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part2/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part2/ArrayUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part2/ListUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part2/ListUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/BlueJay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/BlueJay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/RedRobin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/RedRobin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/SpeedComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz2/src/main/java/com/zipcodewilmington/assessment2/part3/SpeedComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Quiz3/src/main/java/rocks/zipcode/io/quiz3/generics/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Quiz3/src/main/java/rocks/zipcode/io/quiz3/generics/ArrayUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.ScientificCalculator/scientific_calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.SinglyLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.SinglyLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Spring-BakeryAnnotations/src/main/java/com/zipcodewilmington/bakery/controllers/MuffinController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Spring-BakeryAnnotations/src/main/java/com/zipcodewilmington/bakery/controllers/MuffinController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Spring-BakeryAnnotations/src/main/java/com/zipcodewilmington/bakery/models/Baker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Spring-BakeryAnnotations/src/main/java/com/zipcodewilmington/bakery/models/Baker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.Spring-BakeryAnnotations/src/main/java/com/zipcodewilmington/bakery/models/Muffin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.Spring-BakeryAnnotations/src/main/java/com/zipcodewilmington/bakery/models/Muffin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.StringArrayUtilities/src/main/java/com/zipcodewilmington/StringArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.StringArrayUtilities/src/main/java/com/zipcodewilmington/StringArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/Maven.TicTacToe/src/main/java/rocks/zipcodewilmington/tictactoe/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/Maven.TicTacToe/src/main/java/rocks/zipcodewilmington/tictactoe/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/ThreadBare/ThreadBare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/ThreadBare/ThreadBare.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/YouAreEll-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/YouAreEll-2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/YouAreEll-2/Client/Client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/YouAreEll-2/Client/src/main/java/models/Id.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/YouAreEll-2/Client/src/main/java/models/Id.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/YouAreEll-2/Client/src/main/java/models/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/YouAreEll-2/Client/src/main/java/models/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/YouAreEll-2/Client/src/main/java/youareell/YouAreEll.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/YouAreEll-2/Client/src/main/java/youareell/YouAreEll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/YouAreEll-2/YouAreEll.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/maventemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/maventemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/maventemplate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/maventemplate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/zipcoder-Maven.StringArrayUtilities/src/main/java/com/zipcodewilmington/StringArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/zipcoder-Maven.StringArrayUtilities/src/main/java/com/zipcodewilmington/StringArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL_Stuff/SQL.GiveMeTheGoods/answers/exercise11.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL_Stuff/SQL.GiveMeTheGoods/answers/exercise11.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL_Stuff/SQL.GiveMeTheGoods/answers/exercise2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL_Stuff/SQL.GiveMeTheGoods/answers/exercise2.sql" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lecture-slides" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1260" />
+    <option name="height" value="669" />
+  </component>
+  <component name="ProjectId" id="1SnNCLXwZJsKE74o5jqussfr4Mv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cd76a06-876e-4380-8204-4935fe9232fc" name="Default Changelist" comment="" />
+      <created>1571428288237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571428288237</updated>
+      <workItem from="1571428293603" duration="319000" />
+      <workItem from="1572195272214" duration="12000" />
+      <workItem from="1575904064877" duration="121000" />
+      <workItem from="1578499451845" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CR-MacroLabs-OOP-ATM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CR-MicroLabs-Streams-And-Lambdas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HammingItUpJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lambdas2-ZCW" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.Assessment1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.Assessment2a-5.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.Casino" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.CurrencyConverter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.DiceyLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.DuplicateDeleter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.ExceptionalPhoneNumbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.GenericArrayUtility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.GradedStudents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.JavaFundamentals-DanDoBetterDrills" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.LearnerLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.MonkeysTypewritersOhMy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.PersonDetails" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.PhoneBook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.ProjectTemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.Quiz2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.Quiz3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.Regex-Hamlet-Parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.ScientificCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.SinglyLinkedList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.StringArrayUtilities" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.StringsAndThings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.TDD-AnimalFactory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.TalkingPets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.TestingPersonClass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven.TicTacToe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ScientificCalculator.Maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleCrypt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThreadBare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/YouAreEll-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/casinoprototype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maventemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zipcoder-Maven.StringArrayUtilities" vcs="Git" />
+  </component>
+</project>
